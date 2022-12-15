@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-15T22:39:59 IST" name="Default suite" finished-at="2022-12-15T22:40:02 IST" duration-ms="3557">
+    <groups>
+    </groups>
+    <test started-at="2022-12-15T22:39:59 IST" name="Default test" finished-at="2022-12-15T22:40:02 IST" duration-ms="3557">
+      <class name="org.ict.scripts.TestClass">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:org.ict.scripts.TestClass@3e11f9e9]" started-at="2022-12-15T22:39:52 IST" name="initialization" finished-at="2022-12-15T22:39:59 IST" duration-ms="6556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="ValidLoginVerification()[pri:0, instance:org.ict.scripts.TestClass@3e11f9e9]" started-at="2022-12-15T22:39:59 IST" name="ValidLoginVerification" finished-at="2022-12-15T22:40:00 IST" duration-ms="1238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLoginVerification -->
+        <test-method signature="ValidHomeVerification()[pri:1, instance:org.ict.scripts.TestClass@3e11f9e9]" started-at="2022-12-15T22:40:00 IST" name="ValidHomeVerification" finished-at="2022-12-15T22:40:01 IST" duration-ms="877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidHomeVerification -->
+        <test-method signature="ValidAddEmpVerification()[pri:2, instance:org.ict.scripts.TestClass@3e11f9e9]" started-at="2022-12-15T22:40:01 IST" name="ValidAddEmpVerification" finished-at="2022-12-15T22:40:02 IST" duration-ms="1393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidAddEmpVerification -->
+      </class> <!-- org.ict.scripts.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
